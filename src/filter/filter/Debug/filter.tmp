@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m32def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\Debug\filter.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>filter.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>filter.map</FILE>
+  <FILE>filter.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>4</LINE></init>
+  <main><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>16</LINE></main>
+  <read_int><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>88</LINE></read_int>
+  <read_matrix><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>57</LINE></read_matrix>
+  <li><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>37</LINE></li>
+  <lj><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>39</LINE></lj>
+  <apply><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>111</LINE></apply>
+  <print_matrix><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>72</LINE></print_matrix>
+  <end><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>54</LINE></end>
+  <loop_r><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>62</LINE></loop_r>
+  <loop_p><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>77</LINE></loop_p>
+  <print_int><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>99</LINE></print_int>
+  <load><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>92</LINE></load>
+  <save><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>103</LINE></save>
+  <Loopl><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>117</LINE></Loopl>
+  <Loopm><FILE>C:\Users\Kowareta\Data\workspace\ava_sr\2\src\filter\filter\main.asm</FILE><LINE>126</LINE></Loopm>
+ </LABELS>
+</ASSEMBLER_INFO>
